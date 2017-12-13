@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="width_menu_button">800dp</dimen>
+    <dimen name="size_menu_button">80sp</dimen>
+</resources>

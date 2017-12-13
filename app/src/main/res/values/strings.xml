@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+
+    <string name="single_player">Single Player</string>
+    <string name="online">Online</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="back">Back</string>
+
+    <string name="label_player_turn">Turn</string>
+    <string name="turn_human">Its yours</string>
+    <string name="turn_computer">Computer</string>
+
+    <string name="about_note">
+        This game is made for the course "Basics of Android" by
+        \nAtif Naseem
+        \n+92-313-5521122
+        \natif.naseem22@gmail.com
+
+    </string>
+</resources>
